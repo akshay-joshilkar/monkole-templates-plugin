@@ -5,7 +5,7 @@
     "author": "Akshay Joshilkar",
     "repository": "https://github.com/akshay-joshilkar/monokle-templates-plugin",
     "monoklePlugin": {
-        "id": "com.github.akshay-joshilkar.templates",
+        "id": "com.github.akshay-joshilkar.plugin.templates",
         "helpUrl": "https://github.com/akshay-joshilkar/monokle-templates-plugin",
       "modules": [
         {
