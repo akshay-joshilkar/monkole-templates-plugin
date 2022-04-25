@@ -2,7 +2,7 @@
     "name": "Template plugins",
     "description": "Custom templates plugin",
     "version": "1.0.0",
-    "author": "YOUR_NAME",
+    "author": "Akshay Joshilkar",
     "repository": "https://github.com/YOUR_GITHUB_USERNAME/monokle-templates-plugin",
     "monoklePlugin": {
         "id": "com.github.akshay-joshilkar.templates.plugin",
